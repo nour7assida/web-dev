@@ -1,0 +1,24 @@
+body {
+  font-family: Roboto, sans-serif;
+  background-color: rgb(190, 135, 135);
+}
+
+.title {
+  text-align: center;
+  color: blue;
+}
+
+.navbar {
+  text-align: center;
+}
+
+.navbar a {
+  display: inline;
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.text {
+  text-align: center;
+}
